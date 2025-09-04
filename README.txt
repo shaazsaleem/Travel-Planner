@@ -10,8 +10,8 @@ filter destinations based on specific criteria, find the shortest path between t
 and plan multi-destination trips.
 
 Installation:
-1. Download the zip file containing the whole project to computer
-2. Open the zip file using some sort of IDE
+1. Download the files containing the whole project to computer
+2. Open the zip file using your preferred environment
 3. Run the code in the TravelPlanner.java file
 4. Follow the instructions displayed in the console to interact with the Travel Planner.
 
@@ -25,6 +25,3 @@ Filtering Destinations: Filter destinations based on specific categories.
 Shortest Path Calculation: Find the shortest path between two destinations using Dijkstra's algorithm.
 Trip Planning: Plan multi-destination trips by selecting a sequence of 
 			   destinations and viewing the route and distance between them.
-
-Contact:
-Any questions feel free to contact the author at shaazsaleem@my.smccd.edu
